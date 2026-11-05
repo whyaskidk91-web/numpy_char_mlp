@@ -82,8 +82,8 @@ The biggest problem is the context window and the computing time thats why i cre
 ## How to run:
 ```
 pip install numpy
-cd names && python names_AI_V4.py
-cd ../shakespeare && python shakespeare_ANN_V3.py
+cd f_names && python names_AI_V4.py
+cd ../f_shakespeare && python shakespeare_ANN_V3.py
 ```
 
 ## Data:
